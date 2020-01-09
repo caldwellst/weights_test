@@ -1,0 +1,7 @@
+Indicator Group / Sector,research.question,sub.research.question,repeat.for.variable,independent.variable,independent.variable.type,dependent.variable,dependent.variable.type,hypothesis.type
+,,,,strata,categorical,x,categorical,group_difference
+,,,,strata,categorical,y,categorical,group_difference
+,,,,,,x,categorical,direct_reporting
+,,,,,,y,categorical,direct_reporting
+,,,,,,z,numerical,direct_reporting
+,,,,,,a,numerical,direct_reporting
